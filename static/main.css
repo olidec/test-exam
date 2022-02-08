@@ -8,6 +8,28 @@ body {
     background: #eeeeee;
 }
 
-.shadow {
-    box-shadow: 0px 2px 5px 2px darkgrey;
+h1 {
+    margin: 20px;
+    margin-left: 170px;
+    margin-right: 170px;
+    padding: 20px;
+    text-align: center;
 }
+
+.shadow {
+    box-shadow: 0px 2px 3px 2px darkgrey;
+}
+
+#navigation {
+    margin-top: 25px;
+    position: fixed;
+    margin-left: 15px;
+    padding: 15px;
+    padding-right: 60px;
+}
+#content {
+    position: fixed;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
