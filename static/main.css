@@ -8,6 +8,58 @@ body {
     background: #eeeeee;
 }
 
-.shadow {
-    box-shadow: 0px 2px 5px 2px darkgrey;
+h1 {
+
+background-color: aquamarine;
+text-align: center;
+padding: 20px 10px 20px 20px;
+margin: 20px;
+
 }
+
+
+.navbar {
+
+background-color: azure;
+width: 100px;
+padding: 15px;
+margin: 9px;
+list-style: none;
+
+}
+
+#content {
+
+margin-left: 250px;
+margin-top: -62px;
+
+}
+
+
+.shadow {
+    box-shadow: 20px 20px 20px 5px rgb(244, 243, 247);
+    
+}
+
+.selector-card {
+background-color: rgb(192, 233, 198);
+margin-top: 8px;
+margin: 7px;
+padding: 5px;
+width: 79%;
+
+}
+
+.card-right {
+background-color: rgb(221, 221, 241);
+}
+
+.card-left {
+background-color: rgb(247, 226, 226);
+}
+
+.card-header {
+background-color: rgb(243, 34, 163);
+}
+
+
